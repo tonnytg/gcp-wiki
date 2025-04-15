@@ -1,7 +1,7 @@
 module pubsub_creator
 
 go 1.21.4
-toolchain go1.23.7
+toolchain go1.24.1
 
 require cloud.google.com/go/pubsub v1.44.0
 
